@@ -1,0 +1,2 @@
+STAR JIM 45.0 43.0 G5
+PLANET earth 45.0 43.0
